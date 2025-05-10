@@ -33,6 +33,15 @@ This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **un
 
 ---
 
+## Tech Stack 
+
+- **Python 3.12** — core language
+- **Pygame** — 2D graphics and event handling
+- **Minimax Algorithm** — core AI logic for unbeatable moves
+- **OOP Design** — modular, scalable, and clean code structure
+
+---
+
 ## How It Works
 
 - The player chooses their symbol (X or O).
