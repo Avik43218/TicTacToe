@@ -31,6 +31,7 @@ This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **un
 
 ![Continue](./assets/Screenshots/Capture_4.PNG)
 
+---
 
 ## How It Works
 
@@ -41,12 +42,44 @@ This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **un
 
 ---
 
----
-
-## 🚀  Getting Started
+## Getting Started
 
 1. **Clone the repo**
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe-ai.git
    cd tic-tac-toe-ai
+2. **Install requirements**
+   ```bash
+   pip install pygame
+3. **Run the game**
+   ```bash
+   python main.py
 
+---
+
+## Controls & Gameplay 
+
+1. **Place Mark**: Left click on the desired box
+2. **Quit Game**: Close the window or hit Esc
+
+The AI thinks instantly, so you may try to outsmart it, but- you can't! Good luck!
+
+---
+
+## Acknowledgements 
+
+1. Pygame — for making 2D game development in Python delightful.
+
+2. [NeuralNine](https://youtube.com/@neuralnine?si=dCjs2h2vIM9VsjUM) — For their excellent Python tutorials. 
+
+3. Classic Minimax implementations & game-theory tutorials that inspired the AI logic.
+
+4. The Python community and countless Stack Overflow threads for continuous learning.
+
+---
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+Good luck trying to beat the AI! You'll need it!
