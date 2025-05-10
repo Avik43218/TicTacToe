@@ -19,15 +19,15 @@ This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **un
 
 ![Draw](./assets/Screenshots/Capture_1.PNG)
 
-2. **Match Win**
+2. **Won Match**
 
 ![win](./assets/Screenshots/Capture_2.PNG)
 
-3. **Match Lose**
+3. **Lost Match**
 
 ![Lose](./assets/Screenshots/Capture_3.PNG)
 
-4. **Match Continue**
+4. **Match Continued**
 
 ![Continue](./assets/Screenshots/Capture_4.PNG)
 
