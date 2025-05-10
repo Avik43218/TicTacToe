@@ -1,6 +1,6 @@
 # Tic Tac Toe — AI Never Loses
 
-This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **unbeatable AI opponent** powered by the Minimax algorithm. The game is simple, intuitive, and designed to challenge even the sharpest minds. Whether you're looking to test your logic skills or learn how Minimax works, this project has you covered. :)
+This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **unbeatable AI opponent** powered by the Minimax algorithm. The game is simple, intuitive, and designed to challenge even the sharpest minds. Whether you're looking to test your logic skills or learn how Minimax works, this project has you covered :)
 
 ---
 
