@@ -9,6 +9,7 @@ This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **un
 - **Unbeatable AI**: Uses the Minimax algorithm to make optimal moves.
 - **Single Player Mode**: Play against the computer — it won’t let you win!
 - **Clean Pygame GUI**: Modern, minimal board with colored highlights.
+- **Main Menu**: Minimal main menu with level selection. 
 - **Clean Codebase**: Modular design with separate files for game logic, AI logic, and utilities.
 
 ---
@@ -55,14 +56,14 @@ This is a Tic Tac Toe game built in Python featuring a **clean GUI** and an **un
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-ai.git
-   cd tic-tac-toe-ai
+   git clone https://github.com/avik43218/TicTacToe.git
+   cd TicTacToe
 2. **Install requirements**
    ```bash
    pip install pygame
 3. **Run the game**
    ```bash
-   python main.py
+   python start_game.py
 
 ---
 
